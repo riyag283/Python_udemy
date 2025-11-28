@@ -1,0 +1,11 @@
+Generators - you save memory
+- sometimes one doesn't want the results immediately
+- lazy evalutation
+
+- yield
+- next()
+- send()
+- yield from
+- close()
+
+

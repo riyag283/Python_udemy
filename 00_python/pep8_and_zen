@@ -1,0 +1,9 @@
+https://peps.python.org/pep-0008/
+
+PEP 8
+- 4 spaces, never tabs
+- use meaningful names for naming token, chai not c1
+- formatters
+
+Zen
+import this

@@ -1,0 +1,23 @@
+comprehensions are a concise way to create
+- lists
+- sets
+- dictionaries
+- generators
+in Python using a single line of code.
+
+Where they are used in real life?
+- filter item
+- transforming item
+- create a new collection
+- flatten nested structure
+
+What purpose do they serve?
+- cleaner code
+- faster execution
+
+Types of comprehensions
+- list
+- set
+- dictionary
+- generator
+

@@ -1,0 +1,9 @@
+set - set()
+: designed for uniqueness
+
+- intersection
+- union
+- difference
+
+
+Read about frozenset to get a brief idea

@@ -1,0 +1,20 @@
+Objects and Mutability
+- everything is object in python
+
+Object 
+- unique identity
+- Type
+- Value
+
+Mutable and Immutable: validate with the identity NOT Value
+Mutable - that is changeable
+Immutable - that is NOT changeable
+
+
+Numbers
+- Integers
+- Booleans 
+  - logical operations: and, or, not
+- Real Numbers
+  - float -> decimal
+- Complex Numbers

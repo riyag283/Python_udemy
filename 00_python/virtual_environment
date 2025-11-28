@@ -1,0 +1,17 @@
+python3 -m venv .venv
+python3 -m venv .superman
+
+source .venv/bin/activate
+
+
+Why?
+- to isolate project dependencies
+- Third-party software/module
+pip install package
+or create a requirements.txt file
+pip install -r requirements.txt
+
+Always work in venv - every project will be independent of the global package versions
+
+
+New way: uv

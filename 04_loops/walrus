@@ -1,0 +1,4 @@
+Walrus :=
+
+x = 5  -> statement
+3 + 4  -> expression
